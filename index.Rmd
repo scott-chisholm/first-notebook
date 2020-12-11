@@ -15,6 +15,7 @@ output:
 #This is not a comment in RMarkdown
 <!-- This is a comment -->
 
+
 <!-- Headings -->
 
 # Heading 1 {#Heading1}
